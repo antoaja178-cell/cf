@@ -15,7 +15,7 @@ const v2 = "djJyYXk=";
 
 const PORTS = [443, 80];
 const PROTOCOLS = [atob(horse), atob(flash), atob(neko), "ss"];
-const SUB_PAGE_URL = "https://foolvpn.web.id/nautica";
+const SUB_PAGE_URL = "https://cf.antoaja178.workers.dev";
 const KV_PRX_URL = "https://raw.githubusercontent.com/hadesphantom12/server/refs/heads/main/kvProxyList.json";
 const PRX_BANK_URL = "https://raw.githubusercontent.com/hadesphantom12/server/refs/heads/main/proxyList.txt";
 const DNS_SERVER_ADDRESS = "8.8.8.8";
